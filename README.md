@@ -1,14 +1,23 @@
-# Teamverteilung:
+# Next-Generation Sequencing PyQt Application
 
-| Thema | Umsetzung (falls relevant) | Name | GitHub Username |
-| ----- | -------------------------- | ---- | ----------------|
-| GUI   | PyQt5                      | Marius Maier | lostcolor6 |
-| Datenbank | PostgreSQL | Samuel Hehn | Sorodon |
-| Variant priorization | Exomizer? | Markus Baier | Secras |
-| NGS analysis pipeline | | Moritz Layer | mooomooo11 |
-|Annotation Service: REST API| | Alba Nagel | albanagelgonzalez |
+Welcome to the **Next-Generation Sequencing PyQt Application**, a powerful tool for working with Variant Call Format (VCF) files. This application provides an intuitive, user-friendly interface to easily load, filter, and analyze VCF data. For more details, please refer to the README files provided in this repository.
 
+## Project Overview
 
-# Test files:
-here you can find the test data (FastQ, CRAM, VCF):   
-https://download.imgag.de/ahsturm1/programmierprojekt/
+This project was developed as part of a university team collaboration, under the supervision of the **Institute of Medical Genetics and Applied Genomics for Diagnostics** at the **University Hospital of Tübingen**, Germany.
+
+## Setup Requirements
+
+### Database and API
+
+In order for the application to function properly, the database and API need to be set up. For detailed instructions on configuring these components, please refer to the **Database/API Documentation**.
+
+## Test Data
+
+You can find test data, including FastQ, CRAM, and VCF files, at the following link:
+
+[Download Test Data](https://download.imgag.de/ahsturm1/programmierprojekt/)
+
+---
+
+Archive Repo
